@@ -2,7 +2,8 @@
 
 /**
  * main - Entry point
- *
+ *but for multiples of three prints Fizz instead of the numbe
+ *and for the multiples of five prints Buzz
  * Return: Always 0 (Success)
  */
 
